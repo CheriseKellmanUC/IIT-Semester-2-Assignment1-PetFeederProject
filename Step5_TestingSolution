@@ -1,8 +1,8 @@
 Test outputs:
-1.	Pet has eaten, with food level 100g  display food level, with food level low alert
-2.	Pet has eaten, with food level 2kg  display food level, without alert
-3.	Pet has not eaten, with weight sensor reading 200g in bowl  trigger alarm and lights
-4.	Food/kibble size too large for dispenser  trigger alarm and lights
+1.	Pet has eaten, with food level 100g -> display food level, with food level low alert
+2.	Pet has eaten, with food level 2kg -> display food level, without alert
+3.	Pet has not eaten, with weight sensor reading 200g in bowl -> trigger alarm and lights
+4.	Food/kibble size too large for dispenser -> trigger alarm and lights
 Expectations of system:
 1.	Max capacity of dispenser allowed: 10kg
 2.	Dispenser is updated: actual food level is displayed
