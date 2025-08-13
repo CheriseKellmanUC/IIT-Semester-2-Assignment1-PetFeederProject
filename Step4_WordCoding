@@ -1,0 +1,16 @@
+Word code/pseudocode:
+1.	Program system time
+2.	Set feeding times and food amounts to be dispensed
+3.	Display the current food level and time
+4.	If food levels are low, display “food level low” and trigger alert
+5.	Else, check if feeding time
+6.	If feeding time, dispense food
+7.	If not feeding time wait 5 minutes, check again
+8.	Dispense food
+9.	If food not dispensed, display “dispense failure” and trigger alert
+10.	Else, wait 15 minutes using weight sensor to detect if pet has eaten
+11.	If pet has eaten, return to step 3
+12.	If pet has not eaten, display “food not eaten” and trigger alert
+13.	Check if system needs to keep running
+14.	If system needs to keep running, return to step 2
+15.	Else, end program
