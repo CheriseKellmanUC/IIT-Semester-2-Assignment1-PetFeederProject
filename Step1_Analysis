@@ -1,12 +1,9 @@
 Step 1: Understand and Define the Problem (Analyse)
 Problem statement:
-A local animal shelter is seeking a low-cost and programmable automated pet feeder system which is designed to:
-1.	dispense food for cats and dogs at the scheduled times during the day
-2.	monitor whether the food dispensed has been consumed
-3.	monitor the amount of food that has been consumed
-4.	display an alert to staff if there is an issue with the feeder, such as no food dispensed or food not eaten
-5.	system must also be built with low-cost components
-The objective is to design and simulate the logic and behaviour of the automated pet feeder system.
+A local animal shelter is seeking a low-cost and programmable automated pet feeder system which is designed to dispense food for animals at the scheduled times during the day, 
+monitor whether the food dispensed has been consumed, monitor the amount of food that has been consumed, and has the ability to display an alert to staff if there is an issue with the feeder, 
+such as no food dispensed or food not eaten. The objective is to design and simulate the logic and behaviour of the automated pet feeder system.
+
 Aspects of system:
 Features: automated, programmable, able to dispense food, servo motor, sensor system, alert system
 Inputs: feeding times, food, amount of food to be dispensed
